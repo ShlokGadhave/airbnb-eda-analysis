@@ -14,5 +14,5 @@ df=data.drop(columns=['last review', 'reviews per month',
 print(df)
 
 #Renaming The columns 
-df1=data.rename(columns={'NAME':'name'})
+df1=data.rename(columns={'NAME':'name','host id':'Host ID'})
 print(df1)
