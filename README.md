@@ -160,13 +160,7 @@ Useful for feature selection in machine learning.
 ✔ Exploratory Data Analysis (EDA)
 ✔ Geographical Data Visualization
 
-📌 Future Improvements
-Apply Machine Learning models for price prediction.
-Add advanced feature engineering.
-Build dashboard using:
-Power BI
-Tableau
-Streamlit
+
 ▶️ How To Run Project
 1️⃣ Install Required Libraries
 pip install pandas numpy matplotlib seaborn
